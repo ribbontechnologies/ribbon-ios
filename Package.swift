@@ -4,8 +4,8 @@
 import PackageDescription
 
 let version = "1.2.1"
-let checksum = ""
-let moduleName = ""
+let checksum = "d101969604529ff49dd5c6a776ba8bed33605e8a601febc0dafd94e34b276959"
+let moduleName = "RibbonKit"
 
 let package = Package(
     name: moduleName,
