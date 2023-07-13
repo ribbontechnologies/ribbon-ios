@@ -3,8 +3,8 @@
 
 import PackageDescription
 
-let version = "1.9.0"
-let checksum = "c95f4d345e622a24807f9b8de3194cd57e87091f36b05b1eec9fec1a95b5b6a6"
+let version = "1.9.1"
+let checksum = "b4b8d1003fb6c531b94bd517d8c5028fc4139e25229caa02121fc53ba20fa20b"
 let moduleName = "RibbonKit"
 
 let package = Package(
